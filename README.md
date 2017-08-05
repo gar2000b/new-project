@@ -1,0 +1,2 @@
+# new-project
+script that creates a new local git project and syncs it to a new corresponding repo on github. Note: be sure to include the password in the project.sh file and create a symlink to /usr/bin/whatever using ln -s
